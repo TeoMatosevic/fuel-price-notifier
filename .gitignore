@@ -1,0 +1,54 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the 'go tool' command
+*.out
+
+# Go workspace file
+go.work
+
+# Directories for dependencies
+vendor/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Configuration files for local environment
+.env
+
+# Sensitive files
+*.crt
+*.key
+
+# Go test coverage
+*.cover
+
+# Generated files
+gen/
+
+# Compiled object files
+*.o
+*.a
+
+# Go module cache
+go.sum
+
