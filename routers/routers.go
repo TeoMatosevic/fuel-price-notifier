@@ -1,8 +1,8 @@
 package routers
 
 import (
-	"fuel-price-notifier/context"
-	"net/http"
+    "fuel-price-notifier/context"
+    "net/http"
     "strings"
     "time"
     "crypto/tls"
